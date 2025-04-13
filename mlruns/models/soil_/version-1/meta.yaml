@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740565020310
+current_stage: None
+description: ''
+last_updated_timestamp: 1740565020310
+name: soil_
+run_id: 64b98be10a37486e9f49fae547604d2c
+run_link: ''
+source: file:///D:/DA_SATYA/mlfow%20soil/mlruns/235642876477053345/64b98be10a37486e9f49fae547604d2c/artifacts/soil_classification_model
+status: READY
+status_message: null
+storage_location: file:///D:/DA_SATYA/mlfow%20soil/mlruns/235642876477053345/64b98be10a37486e9f49fae547604d2c/artifacts/soil_classification_model
+user_id: null
+version: 1

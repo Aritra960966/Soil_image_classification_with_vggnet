@@ -1,0 +1,20 @@
+artifact_path: soil_classification_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.3
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.18.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.20.2
+model_size_bytes: 1888662
+model_uuid: 161f18c400b14ba89be9726d8ceba3a7
+run_id: 64b98be10a37486e9f49fae547604d2c
+utc_time_created: '2025-02-26 10:05:16.628308'
